@@ -1,4 +1,4 @@
-# How To Make & Publish On NPM
+# How To Publish On NPM
 
 <br>
 <br>
