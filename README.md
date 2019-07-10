@@ -21,10 +21,12 @@
 ```json
 {
   "name": "unique-npm-project-name",
-  "version": "1.0.0", //_begin_with_1.0.0
+  //_begin_with_1.0.0
+  "version": "1.0.0",
   "description": "Descripton of my application",
   "main": "index.min.js",
-  "license": "MIT", //_open_source_license!
+  //_open_source_license!
+  "license": "MIT",
   "keywords": ["list", "of", "searchable", "key", "words"]
 }
 ```
