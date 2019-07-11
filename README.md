@@ -16,7 +16,7 @@
 ##### \*\*\* New package
 
 1. Setup an npm account. (if not done aleardy)
-2. Create a `package.json` at application root and set version `1.0.0` to start. If open source, set the license to `MIT` 🤟
+2. Create a `package.json` at application root and set version `1.0.0` to start. \*\*\* If open source, set the license to `MIT`. 🤟
 
 ```json
 {
