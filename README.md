@@ -20,8 +20,8 @@
 
 <div style="padding-left: 30px">
     <ul>
-        <h5><li>Begin with version <strong>1.0.0</strong></li></h5>
-        <h5><li>Use <strong>MIT</strong> for open source licensing</li></h5>
+        <h6 style="margin:0;padding:0;"><li>Begin with version <strong>1.0.0</strong></li></h6>
+        <h6 style="margin:0;padding:0;"><li>Use <strong>MIT</strong> for open source licensing</li></h6>
     </ul>
 </div>
 
