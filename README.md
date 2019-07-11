@@ -16,7 +16,10 @@
 ##### \*\*\* New package
 
 1. Setup an npm account. (if not done aleardy)
-2. Create a `package.json` at application root and set version `1.0.0` to start. \*\*\* If open source, set the license to `MIT`. 🤟
+2. Create a `package.json` (snippet below) at application root and set version `1.0.0` to start. \*\*\* If open source, set the license to `MIT`. 🤟
+3. Push changes to your git repo.
+4. `npm login`
+5. `npm publish`
 
 ```json
 {
@@ -29,22 +32,17 @@
 }
 ```
 
-3. Push changes to your git repo.
-4. `npm login`
-5. `npm publish`
-
 ##### \*\*\* update package
 
 1. Push changes to your git repo
 2. `npm login`
 3. `npm version` with new number
+4. `npm publish`
 
 ```bash
-# example
+# updating version example
 npm verison 1.0.1
 ```
-
-4. `npm publish`
 
 ##### \*\*\* am i still logged in?
 
