@@ -16,14 +16,7 @@
 ##### \*\*\* New package
 
 1. Setup an npm account. (if not done aleardy)
-2. Create a `package.json` at application root.
-
-<div style="padding-left: 30px">
-    <ul>
-        <li style="list-style-type: none;">Begin with version <strong>1.0.0</strong></li>
-        <li style="list-style-type: none;">Use <strong>MIT</strong> for open source licensing</li>
-    </ul>
-</div>
+2. Create a `package.json` at application root. Use version `1.0.0` to start. If open source, set the license to `MIT` 🤟
 
 ```json
 {
