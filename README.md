@@ -18,10 +18,10 @@
 1. Setup an npm account. (if not done aleardy)
 2. Create a `package.json` at application root.
 
-<div style="padding-left: 20px"> 
-    <ul>
-        <small><li>Begin with <strong>version 1.0.0</strong></li></small>
-        <small><li>Use <strong>MIT</strong> for open source licensing</li></small>
+<div style="padding-left: 30px">
+    <ul style="font-size: 11px;">
+        <li>Begin with version <strong>1.0.0</strong></li>
+        <li>Use <strong>MIT</strong> for open source licensing</li>
     </ul>
 </div>
 
