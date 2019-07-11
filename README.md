@@ -19,9 +19,9 @@
 2. Create a `package.json` at application root.
 
 <div style="padding-left: 30px">
-    <ul style="font-size: 11px;">
-        <li>Begin with version <strong>1.0.0</strong></li>
-        <li>Use <strong>MIT</strong> for open source licensing</li>
+    <ul>
+        <h5><li>Begin with version <strong>1.0.0</strong></li></h5>
+        <h5><li>Use <strong>MIT</strong> for open source licensing</li></h5>
     </ul>
 </div>
 
